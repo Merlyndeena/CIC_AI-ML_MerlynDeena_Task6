@@ -19,4 +19,4 @@ This day focuses on problem solving and basic Python logic using lists, strings,
 - Learned basic problem solving  
 - Improved coding skills  
 - Better understanding of Python data handling
-- 
+  
